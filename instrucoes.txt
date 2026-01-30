@@ -1,0 +1,9 @@
+1° criar package.json = npm init -y 
+
+2°  instalar o express = npm i --save express@4.16.2 -E 
+
+3° instalar nodemon em devdependencies = npm i --save-dev nodemon@1.14.11 -E 
+
+4° instalar o  body-parser = npm i --save body-parser@1.18.2 -E 
+
+
