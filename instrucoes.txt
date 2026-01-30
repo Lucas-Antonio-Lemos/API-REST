@@ -7,3 +7,17 @@
 4° instalar o  body-parser = npm i --save body-parser@1.18.2 -E 
 
 
+git branch 'nome' cria uma branch nova ... 
+
+git branch -l  => para listar as branchs existentes
+
+=> cada branch " tem uma versão do projeto" 
+
+=> git swith 'nome branch' seleciona a branch
+
+=>git checkout 'nome branch' cria a branch e a seleciona 
+
+Hoje eu resolvio problema.
+Vou fechar a issue 3.
+
+
