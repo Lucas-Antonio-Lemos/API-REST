@@ -17,3 +17,5 @@ git branch -l  => para listar as branchs existentes
 
 =>git checkout 'nome branch' cria a branch e a seleciona 
 
+Hoje eu resolvio problema.
+Vou fechar a issue 2.
